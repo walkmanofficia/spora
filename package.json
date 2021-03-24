@@ -1,0 +1,15 @@
+{
+  "name": "inform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "walkman",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "0.0.1-security"
+  }
+}
