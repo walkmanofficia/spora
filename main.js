@@ -7,7 +7,7 @@ const commands  = {}; //  Читай верх
 
 const bot = new Discord.Client(); // Создание бота
 
-bot.login("NzYxMjA5MjM4OTY1MDU5NTg0.X3XRWQ.o3mywCzog5jZEFtohVM_Eb3pKgU"); // Логин
+bot.login("NzYxMjA5MjM4OTY1MDU5NTg0.X3XRWQ.yTOrli39BkIn7WRcuIlch1BlDDw"); // Логин
 
 // Функции
 function loadCommands(path) {
